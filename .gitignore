@@ -1,0 +1,10 @@
+# Data: too large for GitHub (100 MB limit)
+Data/
+Data Source_Friendfeed study/
+*.zip
+*.parquet
+*.csv
+
+# Jupyter / Python clutter
+.ipynb_checkpoints/
+__pycache__/
