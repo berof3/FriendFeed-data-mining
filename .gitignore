@@ -4,6 +4,7 @@ Data Source_Friendfeed study/
 *.zip
 *.parquet
 *.csv
+*.venv/
 
 # Jupyter / Python clutter
 .ipynb_checkpoints/

@@ -114,7 +114,8 @@ The notebooks follow the KDD process: selection → preprocessing → transforma
 Python 3.11 with:
 
 ```
-pip install pandas numpy scikit-learn scipy matplotlib duckdb pyarrow mlxtend
+pip install -r requirements.txt
+
 ```
 
 The versions used were pandas 2.3, numpy 2.4, scikit-learn 1.9, scipy 1.17, matplotlib 3.10, duckdb 1.5, pyarrow 25 and mlxtend 0.25. The machine had 16 GB of RAM, which is enough because DuckDB reads the CSVs out of core.

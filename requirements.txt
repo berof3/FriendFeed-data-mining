@@ -1,0 +1,9 @@
+pandas==2.3.3
+numpy==2.4.6
+scikit-learn==1.9.0
+scipy==1.17.1
+matplotlib==3.10.8
+duckdb==1.5.5
+pyarrow==25.0.1
+mlxtend==0.25.0
+ipykernel==7.2.0
